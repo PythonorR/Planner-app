@@ -1,9 +1,0 @@
-{
-  "name": "planner-ai",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "deploy": "wrangler deploy",
-    "test": "node --test test/proxy.test.mjs"
-  }
-}
